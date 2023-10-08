@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称(产/铲屎官)
+heroText: 产/铲屎官
 heroFullScreen: true
-tagline: 欲善其事，必先利其器
+tagline: 工欲善其事，必先利其器
 projects:
   - icon: project
     name: 项目名称

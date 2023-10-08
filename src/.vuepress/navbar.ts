@@ -17,6 +17,14 @@ export default navbar([
         ]
       },
       {
+        text: "JAVA",
+        icon: "pen-to-square",
+        prefix: "JAVA/",
+        children: [
+          { text: "工具包", icon: "pen-to-square", link: "1" },
+        ]
+      },
+      {
         text: "苹果",
         icon: "pen-to-square",
         prefix: "apple/",
